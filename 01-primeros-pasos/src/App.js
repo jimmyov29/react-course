@@ -2,7 +2,7 @@ import React from 'react';
 // @ts-ignore
 import logo from './logo.svg'
 import './App.css';
-import Events from './components/Events';
+import Events from './components/01-eventos/Events/Events';
 
 function App() {
   return (
